@@ -1,0 +1,1 @@
+sam build --use-container --build-image public.ecr.aws/sam/build-dotnet8:latest
